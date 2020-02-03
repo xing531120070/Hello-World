@@ -13,3 +13,4 @@
 	   Git has a mutable index called stage.
 	   
 dev版本: Creating a new branch is quick.
+解决冲突的dev：Creating a new branch is quick AND simple.
