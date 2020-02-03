@@ -2,3 +2,5 @@
 		Git is free software.
 第二步，修改本地内容：Git is a distributed version control system.
 		Git is free software.
+版本1：Git is a version control system.
+	   Git is free software.
