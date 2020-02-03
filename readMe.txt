@@ -17,3 +17,7 @@ dev版本: Creating a new branch is quick.
 Creating a new branch is quick & simple.
 解决冲突的dev：Creating a new branch is quick AND simple and continue.
 
+
+分支管理策略：
+
+
